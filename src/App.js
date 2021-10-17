@@ -8,7 +8,7 @@ import i1 from "./assets/images/mintkeeper.jpg";
 import silver from "./assets/images/silver.jpg";
 import gold from "./assets/images/gold.jpg";
 import diamond from "./assets/images/diamond.jpg";
-import newbanner from "./assets/images/squidbanner.png"
+import newbanner from "./assets/images/squidbanner.gif"
 
 export const StyledButton = styled.button`
   padding: 10px;
@@ -50,11 +50,11 @@ export const ResponsiveWrapper = styled.div`
 `;
 
 export const StyledImg = styled.img`
-  width: 200px;
-  height: 60px;
+  width: 300px;
+  height: 44px;
   @media (min-width: 767px) {
-    width: 350px;
-    height: 100px;
+    width: 600px;
+    height: 80px;
   }
   transition: width 0.5s;
   transition: height 0.5s;
@@ -114,7 +114,7 @@ function App() {
 
   return (
     <s.Screen style={{ backgroundColor: "var(--black)", fontSize: 40 }}>
-      <s.Container flex={1} ai={"center"} style={{ padding: 24, backgroundColor: "white"}}>
+      <s.Container flex={1} ai={"center"} style={{ padding: 24, backgroundColor: "black"}}>
         <s.TextTitle
           style={{ 
           display: "flex", 
@@ -126,17 +126,18 @@ function App() {
           margin: 0, 
           
           borderStyle: "solid", 
-          borderColor: "#7C3AED", 
-          borderWidth: 10,
+          borderColor: "white", 
+          borderWidth: 5,
           paddingLeft: 30,
           paddingRight: 30,
+          paddingTop: 20,
           
-          borderRadius: 50, 
+          borderRadius: 20, 
           textAlign: "center", 
           justifySelf: "center", 
           justifyContent: "center", 
           color:"#7C3AED", 
-          background: "white",
+          background: "black",
           }}
         >
           {/* Squid Game */}
@@ -149,15 +150,20 @@ function App() {
           <s.Container flex={1} jc={"center"} ai={"center"} style={{paddingTop: 0, flexDirection: "column"}}>
           <s.TextTitle
               style={{ 
+              color: "white",
               textAlign: "center", 
+              maxWidth: 600,
               fontSize: 25, 
               fontWeight: "bold", 
               borderStyle: "solid", 
               borderColor: "black",}}>
-                💀 "Hello gang, what can I mint for you today?" 💀
+                 Squidverse is a collection of 10,000 Unique guards / players who live on the Ethereum Blockchain. Risk Your
+                 lives and come play for the grand prize weekly. <br/>Who will be victorious....<br/>
+                 <text style={{fontSize: 40}}>the <bold style={{color: "#ED1B76"}}>guards</bold> or the
+                 <bold style={{color: "#249F9C"}}> players?</bold></text> 
               </s.TextTitle>
-            <a href="https://skulljunkiesnft.com/"><StyledImg alt={"Mintkeeper"} src={i1} style={{paddingTop: 0, borderStyle: "solid", borderColor: "black", borderWidth: 0,
-                    borderRadius: 0 }}/></a>
+            {/* <a href="https://skulljunkiesnft.com/"><StyledImg alt={"Mintkeeper"} src={i1} style={{paddingTop: 0, borderStyle: "solid", borderColor: "black", borderWidth: 0,
+                    borderRadius: 0 }}/></a> */}
             <s.TextTitle
               style={{ textAlign: "center", fontSize: 30, fontWeight: "bold", borderStyle: "solid", borderColor: "#7C3AED", 
               borderWidth: 5,
