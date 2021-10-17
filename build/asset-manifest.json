@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/SquidNFTGameMintingPage/build/static/css/main.59870a67.chunk.css",
-    "main.js": "/SquidNFTGameMintingPage/build/static/js/main.f3a74ba4.chunk.js",
-    "main.js.map": "/SquidNFTGameMintingPage/build/static/js/main.f3a74ba4.chunk.js.map",
-    "runtime-main.js": "/SquidNFTGameMintingPage/build/static/js/runtime-main.c77c3b3e.js",
-    "runtime-main.js.map": "/SquidNFTGameMintingPage/build/static/js/runtime-main.c77c3b3e.js.map",
-    "static/js/2.3c74e09a.chunk.js": "/SquidNFTGameMintingPage/build/static/js/2.3c74e09a.chunk.js",
-    "static/js/2.3c74e09a.chunk.js.map": "/SquidNFTGameMintingPage/build/static/js/2.3c74e09a.chunk.js.map",
-    "static/js/3.543a4054.chunk.js": "/SquidNFTGameMintingPage/build/static/js/3.543a4054.chunk.js",
-    "static/js/3.543a4054.chunk.js.map": "/SquidNFTGameMintingPage/build/static/js/3.543a4054.chunk.js.map",
-    "index.html": "/SquidNFTGameMintingPage/build/index.html",
-    "static/css/main.59870a67.chunk.css.map": "/SquidNFTGameMintingPage/build/static/css/main.59870a67.chunk.css.map",
-    "static/js/2.3c74e09a.chunk.js.LICENSE.txt": "/SquidNFTGameMintingPage/build/static/js/2.3c74e09a.chunk.js.LICENSE.txt",
-    "static/media/diamond.6fadf831.jpg": "/SquidNFTGameMintingPage/build/static/media/diamond.6fadf831.jpg",
-    "static/media/gold.1c125903.jpg": "/SquidNFTGameMintingPage/build/static/media/gold.1c125903.jpg",
-    "static/media/mintkeeper.8110fbd5.jpg": "/SquidNFTGameMintingPage/build/static/media/mintkeeper.8110fbd5.jpg",
-    "static/media/silver.14977d47.jpg": "/SquidNFTGameMintingPage/build/static/media/silver.14977d47.jpg",
-    "static/media/squidbanner.7a22de0a.gif": "/SquidNFTGameMintingPage/build/static/media/squidbanner.7a22de0a.gif"
+    "main.css": "/SquidGameNFTWebsite/static/css/main.59870a67.chunk.css",
+    "main.js": "/SquidGameNFTWebsite/static/js/main.dd979b85.chunk.js",
+    "main.js.map": "/SquidGameNFTWebsite/static/js/main.dd979b85.chunk.js.map",
+    "runtime-main.js": "/SquidGameNFTWebsite/static/js/runtime-main.52604726.js",
+    "runtime-main.js.map": "/SquidGameNFTWebsite/static/js/runtime-main.52604726.js.map",
+    "static/js/2.3a8591a0.chunk.js": "/SquidGameNFTWebsite/static/js/2.3a8591a0.chunk.js",
+    "static/js/2.3a8591a0.chunk.js.map": "/SquidGameNFTWebsite/static/js/2.3a8591a0.chunk.js.map",
+    "static/js/3.543a4054.chunk.js": "/SquidGameNFTWebsite/static/js/3.543a4054.chunk.js",
+    "static/js/3.543a4054.chunk.js.map": "/SquidGameNFTWebsite/static/js/3.543a4054.chunk.js.map",
+    "index.html": "/SquidGameNFTWebsite/index.html",
+    "static/css/main.59870a67.chunk.css.map": "/SquidGameNFTWebsite/static/css/main.59870a67.chunk.css.map",
+    "static/js/2.3a8591a0.chunk.js.LICENSE.txt": "/SquidGameNFTWebsite/static/js/2.3a8591a0.chunk.js.LICENSE.txt",
+    "static/media/guard.3b58198b.PNG": "/SquidGameNFTWebsite/static/media/guard.3b58198b.PNG",
+    "static/media/mintkeeper.8110fbd5.jpg": "/SquidGameNFTWebsite/static/media/mintkeeper.8110fbd5.jpg",
+    "static/media/player.0fbb4c7f.PNG": "/SquidGameNFTWebsite/static/media/player.0fbb4c7f.PNG",
+    "static/media/question.3495c12b.PNG": "/SquidGameNFTWebsite/static/media/question.3495c12b.PNG",
+    "static/media/squidbanner.7a22de0a.gif": "/SquidGameNFTWebsite/static/media/squidbanner.7a22de0a.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.c77c3b3e.js",
-    "static/js/2.3c74e09a.chunk.js",
+    "static/js/runtime-main.52604726.js",
+    "static/js/2.3a8591a0.chunk.js",
     "static/css/main.59870a67.chunk.css",
-    "static/js/main.f3a74ba4.chunk.js"
+    "static/js/main.dd979b85.chunk.js"
   ]
 }
